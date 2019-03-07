@@ -1,0 +1,4 @@
+Isaac Asimov,45,A,positivo,350
+Aleksandr Lyapunov,76,B,negativo,500
+Chebyshev Pafnuty,34,B,positivo,150
+

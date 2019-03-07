@@ -1,0 +1,3 @@
+/tmp/cch9ww55.o: na função `bucket':
+bucket_sort.c:(.text+0x280): referência indefinida para `pow'
+collect2: error: ld returned 1 exit status
